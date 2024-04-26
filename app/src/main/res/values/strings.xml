@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="open_bracket">(</string>
+    <string name="closed_bracket">)</string>
+    <string name="divide">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multiply">*</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sum">+</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="subtraction">-</string>
+    <string name="ac">AC</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="_575">Номер группы: АС-575</string>
+    <string name="kurs">Курс: 3</string>
+    <string name="fio">ФИО: Рубашевский Владислав Эдуардович</string>
+    <string name="author_info">Author info</string>
+    <string name="author">Разработал Рубашевский</string>
+    <string name="task_info">Task info</string>
+    <string name="task_info_text">
+        1. Разработать приложение Calculator c одним Activity.\n
+        2. Графическое представление приложения Calculator реализовать с кнопками цифр,
+            математических операций (сложения, вычитания, умножения, деления и др.), получения результата.\n
+        3. Предусмотреть возможность ввода дробных чисел через точку (например, 0.5).\n
+        4. Предусмотреть возможность ввода отрицательных чисел.\n
+        5. Создать графическое представление приложения Calculator для горизонтальной ориентации экрана.\n
+        6. Программно реализовать обработку нажатий на кнопки с использованием Activity в качестве единого обработчика.\n
+        7. В случае деления на 0 выводить вместо результата сообщение о недопустимости операции.\n
+        8. Разработать перечень проверок и протестировать приложение Calculator.\n
+        9. Продемонстрировать работу приложения Calculator на эмуляторе или реальном устройстве.</string>
+    <string name="author_name">Владислав Рубашевский</string>
+</resources>
