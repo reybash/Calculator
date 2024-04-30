@@ -75,7 +75,6 @@
                 android:textColor="@color/white"
                 android:textSize="12sp" />
 
-
         </LinearLayout>
 
         <LinearLayout
